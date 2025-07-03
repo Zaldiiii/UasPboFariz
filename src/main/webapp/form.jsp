@@ -20,7 +20,7 @@
         }
 
         .container {
-            max-width: 500px;
+            max-width: 900px;
             margin: 60px auto;
             padding: 30px;
             background-color: #1c1c1e;
